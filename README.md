@@ -71,10 +71,20 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=daoudielhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=daoudielhassan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daoudielhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daoudielhassan&layout=compact&langs_count=8&theme=tokyonight)
+
+<p align="center">
+<img src="github-readme-stats-nine-pied-28.vercel.app
+/api?username=daoudielhassan&theme=tokyonight&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=daoudielhassan&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daoudielhassan&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
 
 ---
 
