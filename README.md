@@ -45,6 +45,7 @@
 ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-DAA520?style=for-the-badge&logo=reinforcement-learning&logoColor=white)
 
 ---
+<!--
 
 ## 🚀 Featured Projects
 */
@@ -67,9 +68,9 @@
 **Description:** A recommendation engine using collaborative filtering and deep learning to suggest content to users.  
 **Tech Stack:** Python, PyTorch, Flask, PostgreSQL  
 **Demo:** [Live Demo](#) | [GitHub Repo](https://github.com/Daoudielhassan/AI-Recommendation-System)  
+-->
 
 ---
-<!--
 
 # 📊 GitHub Stats
 
@@ -86,7 +87,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daoudielhassan&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
--->
 ---
 
 ### ✍️ Random Dev Quote
