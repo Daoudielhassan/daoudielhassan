@@ -47,7 +47,7 @@
 ---
 
 ## 🚀 Featured Projects
-
+*/
 ### 1️⃣ AI Chatbot
 **Description:** An intelligent chatbot that uses NLP and deep learning to understand user queries and provide context-aware responses.  
 **Tech Stack:** Python, TensorFlow, Flask  
@@ -69,6 +69,7 @@
 **Demo:** [Live Demo](#) | [GitHub Repo](https://github.com/Daoudielhassan/AI-Recommendation-System)  
 
 ---
+<!--
 
 # 📊 GitHub Stats
 
@@ -85,11 +86,8 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daoudielhassan&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
-
+-->
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=daoudielhassan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
